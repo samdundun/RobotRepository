@@ -1,11 +1,10 @@
 package duel;
 
-public class CharacterA implements Dueler {
+public class CharacterB implements Dueler {
 	
 	private String name; 
 	
-	public CharacterA(String name) {
-		this.name=name;
+	public CharacterB() {
 	}
 	
 	
